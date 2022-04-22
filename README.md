@@ -1,5 +1,7 @@
 # dwmblocks
 
+*This repo has been forked from Luke Smith.*
+
 Modular status bar for dwm written in c.
 
 # Modifying blocks
